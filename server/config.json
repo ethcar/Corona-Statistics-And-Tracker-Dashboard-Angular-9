@@ -1,0 +1,13 @@
+{
+  "redis": {
+    "host": "159.65.151.241",
+    "password": ""
+  },
+  "keys": {
+    "all": "coronastatistics:all",
+    "countries": "coronastatistics:countries",
+    "timeline": "coronastatistics:timeline",
+    "timelineglobal": "coronastatistics:timelineglobal"
+  },
+  "interval": 600000
+}
